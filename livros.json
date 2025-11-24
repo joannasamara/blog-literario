@@ -1,0 +1,234 @@
+[
+{
+    "nome":"Quarta Asa",
+    "autora":"Rebecca Yarros",
+    "ano":2023,
+    "descrição":"Livro 1 da série O Empyriano."
+},
+
+{
+    "nome":"Chama de Ferro",
+    "autora":"Rebecca Yarros",
+    "ano":2024,
+    "descrição":"Livro 2 da série O Empyriano."
+
+},
+
+{
+    "nome":"Tempestade de Ônix",
+    "autora":"Rebecca Yarros",
+    "ano":2025,
+    "descrição":"Livro 3 da série O Empyriano."
+},
+
+{
+    "nome":"Assistente do Vilão",
+    "autora":"Hannah Nicole Maehrer",
+    "ano":2024,
+    "descrição":"Livro 1 da série Assistente do Vilão."
+
+},
+
+{
+    "nome":"Aprendiz do Vilão",
+    "autora":"Hannah Nicole Maehrer",
+    "ano":2025,
+    "descrição":"Livro 2 da série Assistente do Vilão."
+},
+
+{
+    "nome":"Aliada do Vilão",
+    "autora":"Hannah Nicole Maehrer",
+    "ano":2025,
+    "descrição":"Livro 3 da série Assistente do Vilão."
+},
+
+{
+    "nome":"Teto para Dois",
+    "autora":"Beth O'Leary",
+    "ano":2019,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"A Seleção",
+    "autora":"Kiera Cass",
+    "ano":2012,
+    "descrição":"Livro 1 da série A Seleção."
+},
+
+{
+    "nome":"Trono de Vidro",
+    "autora":"Sarah J. Maas",
+    "ano":2012,
+    "descrição":"Livro 1 da série Trono de Vidro."
+},
+
+{
+    "nome":"Sob o Mesmo Teto",
+    "autora":"Beth O'Leary",
+    "ano":2019,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Presa com Você",
+    "autora":"Chloe Walsh",
+    "ano":2023,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Era Uma Vez um Coração Partido",
+    "autora":"Stephanie Garber",
+    "ano":2021,
+    "descrição":"Livro 1 da trilogia Era Uma Vez um Coração Partido."
+},
+
+{
+    "nome":"A Balada do Felizes para Nunca",
+    "autora":"Stephanie Garber",
+    "ano":2022,
+    "descrição":"Livro 2 da trilogia Era Uma Vez um Coração Partido."
+},
+
+{
+    "nome":"A Maldição do Verdadeiro Amor",
+    "autora":"Stephanie Garber",
+    "ano":2023,
+    "descrição":"Livro 3 da trilogia Era Uma Vez um Coração Partido."
+},
+
+{
+    "nome":"A Elite",
+    "autora":"Kiera Cass",
+    "ano":2013,
+    "descrição":"Livro 2 da série A Seleção."
+},
+
+{
+    "nome":"A Escolha",
+    "autora":"Kiera Cass",
+    "ano":2014,
+    "descrição":"Livro 3 da série A Seleção."
+},
+
+{
+    "nome":"A Herdeira",
+    "autora":"Kiera Cass",
+    "ano":2015,
+    "descrição":"Livro 4 da série A Seleção."
+},
+
+{
+    "nome":"A Coroa",
+    "autora":"Kiera Cass",
+    "ano":2016,
+    "descrição":"Livro 5 da série A Seleção."
+},
+
+{
+    "nome":"A Lâmina da Assassina",
+    "autora":"Sarah J. Maas",
+    "ano":2014,
+    "descrição":"Livro 0.5 da série Trono de Vidro."
+},
+
+{
+    "nome":"Abaixo de Zero",
+    "autora":"Ali Hazelwood",
+    "ano":2023,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Uma Farsa de Amor na Espanha",
+    "autora":"Elena Armas",
+    "ano":2021,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Divinos Rivais",
+    "autora":"Rebecca Ross",
+    "ano":2023,
+    "descrição":"Livro 1 da duologia Divinos Rivais."
+},
+
+{
+    "nome":"Amor em Roma",
+    "autora":"Sarah Adams",
+    "ano":2023,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Amor, Teoricamente",
+    "autora":"Ali Hazelwood",
+    "ano":2023,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Para Todos os Garotos que Já Amei",
+    "autora":"Jenny Han",
+    "ano":2014,
+    "descrição":"Livro 1 da trilogia Para Todos os Garotos que Já Amei."
+},
+
+{
+    "nome":"P.S. Ainda Amo Você",
+    "autora":"Jenny Han",
+    "ano":2015,
+    "descrição":"Livro 2 da trilogia Para Todos os Garotos que Já Amei."
+},
+
+{
+    "nome":"Agora e Para Sempre, Lara Jean",
+    "autora":"Jenny Han",
+    "ano":2017,
+    "descrição":"Livro 3 da trilogia Para Todos os Garotos que Já Amei."
+},
+
+{
+    "nome":"A Hipótese do Amor",
+    "autora":"Ali Hazelwood",
+    "ano":2021,
+    "descrição":"Livro único."
+},
+
+{
+    "nome":"Manual de Assassinato para Boas Garotas",
+    "autora":"Holly Jackson",
+    "ano":2019,
+    "descrição":"Livro 1 da trilogia Manual de Assassinato para Boas Garotas."
+},
+
+{
+    "nome":"Boa Garota, Segredo Mortal",
+    "autora":"Holly Jackson",
+    "ano":2020,
+    "descrição":"Livro 2 da trilogia Manual de Assassinato para Boas Garotas."
+},
+
+{
+    "nome":"Boa Garota, Nunca Mais",
+    "autora":"Holly Jackson",
+    "ano":2021,
+    "descrição":"Livro 3 da trilogia Manual de Assassinato para Boas Garotas."
+},
+
+{
+    "nome":"De Sangue e Cinzas",
+    "autora":"Jennifer L. Armentrout",
+    "ano":2020,
+    "descrição":"Livro 1 da série Sangue e Cinzas."
+},
+
+{
+    "nome":"Você Ligou para o Sam",
+    "autora":"Dustin Thao",
+    "ano":2021,
+    "descrição":"Livro único."
+}
+]
